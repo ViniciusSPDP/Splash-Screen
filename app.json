@@ -4,11 +4,11 @@
     "slug": "Splash-Screen",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/S4R41VA.png",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
     "splash": {
-      "image": "./assets/splash-icon.png",
+      "image": "./assets/S4R41VA.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
